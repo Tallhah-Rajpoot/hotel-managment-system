@@ -1,0 +1,65 @@
+
+|+-----------------------------------------------------------------------------------------------+|
+|                                                                            		              |
+|				INTRODUCTION                                                                      |
+|                                                                                                 |
+|+-----------------------------------------------------------------------------------------------+|
+|                                                                                                 |
+|	This program is developed for hotel managment system                                          |
+|                                                                                                 |
+|	by using this program a hotel can store its data..                                            |
+|                                                                                                 |
+|	THE MAIN FEATURES OF THIS PROGRAM ARE........                                                 |
+|                                                                                                 |
+|*************************************************************************************************|
+|                                                                                                 |
+|	1>>>. It store the data of racipies of hotel.                                                 |
+|                                                                                                 |
+|	You can add new racipie by inserting                                                          |
+|                                                                                                 |
+| 	the racipee name its price and the cheif of the racipes.                                      |
+|                                                                                                 |
+|   You can cheak the list of racipies of hotel.                                                  |
+|                                                                                                 |
+|  	You can search the detail of racipee by name if you write the name of                         |
+|                                                                                                 |
+|	the racipee the whole detail of racipee will be shown.                                        |
+|                                                                                                 |
+|*************************************************************************************************|
+|                                                                                                 |
+|	2.>>> This program can save the new gest detail like. Its Name and where he                   |
+|                                                                                                 |
+|	come from how many days he will stay in hotel and in which room he                            |
+|                                                                                                 |
+|	located in hotel.                                                                             |
+|                                                                                                 |
+|   You can cheak the total gest of hotel by GEST LIST.                                           |
+|                                                                                                 |
+|   YOU can also search the gest by gest name. When you write the name of gest                    |
+|                                                                                                 |
+|	in search option it will disply the detail of gest..                                          |
+|                                                                                                 |
+|*************************************************************************************************|
+|                                                                                                 |
+|	3>>>  Worker detail is very procious for any hotel. By this program you can                   |
+|                                                                                                 |
+|	store the detail of worker which are include are                                              |
+|                                                                                                 |
+|   worker ID, worker name, its phone no  and its sallary.                                        |
+|                                                                                                 |
+|  	To find the worker in thousand worker it is very dificult                                 |
+|                                                                                                 |
+|	but this program have capabilty to search the particular worker                           |
+|                                                                                                 |
+|	of hetel.You can  search the worker by Name or by ID of worker.                           |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|		  I'M VERY THANKFULL TO YOU FOR USING THIS PROGRAM                                |
+|                                                                                                 |
+|	             AND HOPE THAT YOU WILL ENJOY IT...!!!                                        |
+|                                                                                                 |
+|			                                                                          |
+|                                                                                                 |
+|*************************************************************************************************|
